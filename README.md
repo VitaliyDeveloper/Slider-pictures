@@ -1,0 +1,2 @@
+# Slider pictures
+ Слайдер картинок
